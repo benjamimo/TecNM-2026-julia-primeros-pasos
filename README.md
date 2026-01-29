@@ -16,8 +16,8 @@ este lenguaje de programación y paquetes más útiles.
 6.  Funciones
 7.  Gráficas simples
 
-## Fechas y lugar
-Fecha: **29 enero de 2026** en horario de **17:00 a 20:00 hrs**.
+## Fecha
+**29 enero de 2026** en horario de **17:00 a 20:00 hrs**.
 
 ## Navegación en el repositorio
 El repositorio está organizado de la siguiente manera:
